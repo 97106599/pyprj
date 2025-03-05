@@ -4,5 +4,5 @@
 
 # Hier komt je code...
 
-my_list = [1, 3, "tekst", 4.86]
+my_list = [1, 3, "hoi", 4.86]
 print(my_list)
