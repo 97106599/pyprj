@@ -1,7 +1,8 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student: Marrit Kuperus
+# Groep: IT2B
 
 # Hier komt je code...
 
-my_tuple = ...
+my_tuple = "oh een tuple"
+print (my_tuple)
