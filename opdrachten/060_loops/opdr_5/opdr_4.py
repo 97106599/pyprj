@@ -1,9 +1,6 @@
 # Opdracht 3 input functie
-# Naam student:
-# Groep:
+# Naam student: Marrit Kuperus
+# Groep: IT2B
 
-# Hier komt je code...
-
-# Hier start de for-loop
-
-my_list = []
+getallen = [x * 3 for x in range(1, 20)][:6]
+print(getallen)
