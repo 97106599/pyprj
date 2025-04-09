@@ -1,12 +1,14 @@
 # Opdracht 1 functies
-# Naam student:
-# Groep:
-
+# Naam student: Marrit Kuperus
+# Groep: IT2B
 
 def volledige_naam(lijst_met_namen):
-    # hier komt jouw code
-    # Het woordje pass mag je weghalen
-    pass
+    for persoon in lijst_met_namen:
+
+        if persoon["tussenvoegsel"]:
+            print(f"{persoon['voornaam']} {persoon['tussenvoegsel']} {persoon['achternaam']}")
+        else:
+            print(f"{persoon['voornaam']} {persoon['achternaam']}")
 
 
 namen = [
