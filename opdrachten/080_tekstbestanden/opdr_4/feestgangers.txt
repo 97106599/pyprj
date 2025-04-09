@@ -1,0 +1,10 @@
+voornaam: Bertus
+achternaam: Stijgerpijp
+drank: bier
+eten: patat
+
+voornaam: Pieter
+achternaam: Boersma
+drank: Cognac
+eten: Lasange
+

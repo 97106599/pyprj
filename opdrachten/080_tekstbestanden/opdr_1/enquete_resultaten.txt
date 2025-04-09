@@ -1,0 +1,9 @@
+Wat vind je van de huidige regering?
+Antwoord: stom
+
+Wat vind je van de Python-lessen tot nu toe?
+Antwoord: prima
+
+Wat vind jij de mooiste stad van Nederland?
+Antwoord: nijmegen
+
